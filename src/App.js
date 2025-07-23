@@ -937,7 +937,7 @@ function App() {
                 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="FB FSD Page" className="w-10 h-10" />
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900">SMIT Faisalabad Facebook Page</h3>
-                  <a href="https://www.facebook.com/share/smitfsdofficial/" target="_blank" rel="noopener noreferrer" className="text-smit-blue hover:underline">facebook.com/share/1AQg9isQ5g</a>
+                  <a href="https://www.facebook.com/share/smitfsdofficial/" target="_blank" rel="noopener noreferrer" className="text-smit-blue hover:underline">facebook.com/share/smitfsdofficial</a>
                 </div>
               </div>
               <div className="bg-white rounded-xl shadow-lg p-6 flex items-center space-x-4 hover:shadow-xl transition-shadow">
